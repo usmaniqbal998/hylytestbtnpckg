@@ -1,0 +1,15 @@
+.primary {
+  padding: 10px;
+  background-color: brown;
+  color: #fff;
+  border: 0px;
+  outline: none;
+}
+
+.secondary {
+  padding: 10px;
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
+  outline: none;
+}
